@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roopeshn28
 - 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision
-- 🌱 I’m currently learning Deep Fake, GANS
+- 🌱 I’m currently working on Deep Fake, GANS
 - 💞️ I’m looking to collaborate on Deep Fake
 - 📫 How to reach me roopeshn1994@gmail.com
 
